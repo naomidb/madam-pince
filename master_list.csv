@@ -1,0 +1,76 @@
+COMPONENT_NAME,REFERENCE_UNIT,Field
+ALANINE AMINOTRANSFERASE (ALT),U/L,alt_im_lborres
+ABSOLUTE LYMPHOCYTE COUNT,x 1000/uL,lym_im_lborres
+ALANINE AMINOTRANSFERASE (ALT),IU/L,alt_im_lborres
+ALANINE AMINOTRANSFERASE (ALT),u/l,alt_im_lborres
+ALBUMIN,g/dL,alb_im_lborres
+ALKALINE PHOSPHATASE,U/L,apt_im_lborres
+ALKALINE PHOSPHATASE,IU/L,apt_im_lborres
+ALKALINE PHOSPHATASE,u/l,apt_im_lborres
+ALKALINE PHOSPHATASE (MANUAL ENTRY),Not Available,apt_im_lborres
+ALT (SGPT),U/L,alt_im_lborres
+ALT (SGPT),IU/L,alt_im_lborres
+ANC (ABS NEUTROPHIL COUNT),x 1000/uL,anc_im_lborres
+ANC (ABS NEUTROPHIL COUNT),Thou/uL,anc_im_lborres
+ASPARTATE AMINOTRANSFERASE (AST),U/L,ast_im_lborres
+ASPARTATE AMINOTRANSFERASE (AST),IU/L,ast_im_lborres
+ASPARTATE AMINOTRANSFERASE (AST),u/l,ast_im_lborres
+AST (SGOT),U/L,ast_im_lborres
+BILIRUBIN DIRECT,mg/dL,dbil_im_lborres
+BILIRUBIN TOTAL,mg/dL,tbil_im_lborres
+BKR ALANINE AMINOTRANSFERASE (ALT),U/L,alt_im_lborres
+BKR ALBUMIN,g/dL,alb_im_lborres
+BKR ALKALINE PHOSPHATASE,U/L,apt_im_lborres
+BKR ASPARTATE AMINOTRANSFERASE (AST),U/L,ast_im_lborres
+BKR BILIRUBIN DIRECT,mg/dL,dbil_im_lborres
+BKR BILIRUBIN TOTAL,mg/dL,tbil_im_lborres
+BKR CREATININE,mg/dL,creat_im_lborres
+BKR GLUCOSE,mg/dL,gluc_im_lborres
+BKR HEMOGLOBIN,g/dL,hemo_im_lborres
+BKR INR,,inr_im_lborres
+BKR POTASSIUM,mmol/L,k_im_lborres
+BKR WAM ANALYZER ANC,x 1000/uL,anc_im_lborres
+BKR WAM LYMPHOCYTES,%,lymce_im_lborres
+BKR WHITE BLOOD CELL COUNT,x1000/uL,wbc_im_lborres
+CREATININE,mg/dL,creat_im_lborres
+GLUCOSE,mg/dL,gluc_im_lborres
+HCV RNA (IU/ML),IU/mL,hcv_im_lborres
+HCV RNA (LOG IU/ML),,hcv_im_lborres
+HCV RNA (LOG IU/ML),log IU/mL,hcv_im_lborres
+HCV RNA (LOG IU/ML),Log IU/mL,hcv_im_lborres
+"HCV RNA, QUANTITATIVE RT-PCR",IU/mL,hcv_im_lborres
+"HCV RNA, QUANTITATIVE RT-PCR",log IU/mL,hcv_im_lborres
+"HCV RNA, QUANTITATIVE RT-PCR",Log IU/mL,hcv_im_lborres
+HEMOGLOBIN,g/dL,hemo_im_lborres
+HEMOGLOBIN,,hemo_im_lborres
+INR,,inr_im_lborres
+INR,Ratio,inr_im_lborres
+LYMPHOCYTES ABSOLUTE COUNT,cells/uL,lym_im_lborres
+LYMPHOCYTES ABSOLUTE COUNT,,lym_im_lborres
+LYMPHOCYTES ABSOLUTE COUNT,K/UL,lym_im_lborres
+LYMPHS,%,lymce_im_lborres
+NEUTROPHILS,%,neut_im_lborres
+NEUTROPHILS ABSOLUTE COUNT,cells/uL,anc_im_lborres
+NEUTROPHILS RELATIVE PERCENT,%,neut_im_lborres
+NEUTROPHILS RELATIVE PERCENT,,neut_im_lborres
+PLATELET COUNT,x 1000/uL,plat_im_lborres
+PLATELET COUNT,Thou/uL,plat_im_lborres
+PLATELET COUNT,Thousand/uL,plat_im_lborres
+PLATELET COUNT,K/ul,plat_im_lborres
+PLATELET COUNT,X 10,plat_im_lborres
+PLATELET COUNT,X 10(3)/cmm,plat_im_lborres
+PLATELET COUNT,X 10(3)/mcL,plat_im_lborres
+PLATELET COUNT,,plat_im_lborres
+PLATELET COUNT,K/UL,plat_im_lborres
+POTASSIUM,mmol/L,k_im_lborres
+POTASSIUM,mMol/L,k_im_lborres
+SODIUM,mmol/L,sodium_im_lborres
+SODIUM,mMol/L,sodium_im_lborres
+WHITE BLOOD CELL COUNT,x 1000/uL,wbc_im_lborres
+WHITE BLOOD CELL COUNT,Thou/uL,wbc_im_lborres
+WHITE BLOOD CELL COUNT,Thousand/uL,wbc_im_lborres
+WHITE BLOOD CELL COUNT,X 10,wbc_im_lborres
+WHITE BLOOD CELL COUNT,X 10(3)/cmm,wbc_im_lborres
+WHITE BLOOD CELL COUNT,X 10(3)/mcL,wbc_im_lborres
+WHITE BLOOD CELL COUNT,,wbc_im_lborres
+WHITE BLOOD CELL COUNT,K/UL,wbc_im_lborres
